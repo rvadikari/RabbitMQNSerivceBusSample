@@ -1,0 +1,56 @@
+﻿2022-06-06 17:37:30.899 INFO  Logging to 'C:\Users\rvadikari\source\repos\RabbitMQ\Send\bin\Debug\netcoreapp3.1\' with level Info
+2022-06-06 17:37:31.397 INFO  No valid license could be found. Falling back to trial license with start date '2022-06-01'.
+2022-06-06 17:39:24.388 INFO  Logging to 'C:\Users\rvadikari\source\repos\RabbitMQ\Send\bin\Debug\netcoreapp3.1\' with level Info
+2022-06-06 17:39:24.799 INFO  No valid license could be found. Falling back to trial license with start date '2022-06-01'.
+2022-06-06 17:43:42.220 INFO  Logging to 'C:\Users\rvadikari\source\repos\RabbitMQ\Send\bin\Debug\netcoreapp3.1\' with level Info
+2022-06-06 17:43:42.469 INFO  No valid license could be found. Falling back to trial license with start date '2022-06-01'.
+2022-06-06 17:43:42.952 FATAL Receiver Main failed to start.
+RabbitMQ.Client.Exceptions.OperationInterruptedException: The AMQP operation was interrupted: AMQP close-reason, initiated by Peer, code=404, text='NOT_FOUND - no queue 'Send' in vhost '/'', classId=60, methodId=20
+   at RabbitMQ.Client.Impl.SimpleBlockingRpcContinuation.GetReply(TimeSpan timeout)
+   at RabbitMQ.Client.Impl.ModelBase.BasicConsume(String queue, Boolean autoAck, String consumerTag, Boolean noLocal, Boolean exclusive, IDictionary`2 arguments, IBasicConsumer consumer)
+   at RabbitMQ.Client.Impl.AutorecoveringModel.BasicConsume(String queue, Boolean autoAck, String consumerTag, Boolean noLocal, Boolean exclusive, IDictionary`2 arguments, IBasicConsumer consumer)
+   at RabbitMQ.Client.IModelExensions.BasicConsume(IModel model, String queue, Boolean autoAck, String consumerTag, IBasicConsumer consumer)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.ConnectToBroker() in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 121
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Start(PushRuntimeSettings limitations) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 87
+   at NServiceBus.TransportReceiver.Start() in /_/src/NServiceBus.Core/Transports/TransportReceiver.cs:line 142
+   at NServiceBus.ReceiveComponent.Start() in /_/src/NServiceBus.Core/Receiving/ReceiveComponent.cs:line 201
+2022-06-06 17:43:56.416 INFO  Logging to 'C:\Users\rvadikari\source\repos\RabbitMQ\Send\bin\Debug\netcoreapp3.1\' with level Info
+2022-06-06 17:43:56.664 INFO  No valid license could be found. Falling back to trial license with start date '2022-06-01'.
+2022-06-06 17:43:57.083 FATAL Receiver Main failed to start.
+RabbitMQ.Client.Exceptions.OperationInterruptedException: The AMQP operation was interrupted: AMQP close-reason, initiated by Peer, code=404, text='NOT_FOUND - no queue 'Send' in vhost '/'', classId=60, methodId=20
+   at RabbitMQ.Client.Impl.SimpleBlockingRpcContinuation.GetReply(TimeSpan timeout)
+   at RabbitMQ.Client.Impl.ModelBase.BasicConsume(String queue, Boolean autoAck, String consumerTag, Boolean noLocal, Boolean exclusive, IDictionary`2 arguments, IBasicConsumer consumer)
+   at RabbitMQ.Client.Impl.AutorecoveringModel.BasicConsume(String queue, Boolean autoAck, String consumerTag, Boolean noLocal, Boolean exclusive, IDictionary`2 arguments, IBasicConsumer consumer)
+   at RabbitMQ.Client.IModelExensions.BasicConsume(IModel model, String queue, Boolean autoAck, String consumerTag, IBasicConsumer consumer)
+   at NServiceBus.Transport.RabbitMQ.MessagePump.ConnectToBroker() in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 121
+   at NServiceBus.Transport.RabbitMQ.MessagePump.Start(PushRuntimeSettings limitations) in /_/src/NServiceBus.Transport.RabbitMQ/Receiving/MessagePump.cs:line 87
+   at NServiceBus.TransportReceiver.Start() in /_/src/NServiceBus.Core/Transports/TransportReceiver.cs:line 142
+   at NServiceBus.ReceiveComponent.Start() in /_/src/NServiceBus.Core/Receiving/ReceiveComponent.cs:line 201
+2022-06-06 17:48:31.375 INFO  Logging to 'C:\Users\rvadikari\source\repos\RabbitMQ\Send\bin\Debug\netcoreapp3.1\' with level Info
+2022-06-06 17:48:31.725 INFO  No valid license could be found. Falling back to trial license with start date '2022-06-01'.
+2022-06-06 17:49:20.146 INFO  Logging to 'C:\Users\rvadikari\source\repos\RabbitMQ\Send\bin\Debug\netcoreapp3.1\' with level Info
+2022-06-06 17:49:20.613 INFO  No valid license could be found. Falling back to trial license with start date '2022-06-01'.
+2022-06-06 19:17:57.200 INFO  Logging to 'C:\Users\rvadikari\source\repos\RabbitMQ\Send\bin\Debug\netcoreapp3.1\' with level Info
+2022-06-06 19:17:57.612 INFO  No valid license could be found. Falling back to trial license with start date '2022-06-01'.
+2022-06-06 19:20:33.963 INFO  Logging to 'C:\Users\rvadikari\source\repos\RabbitMQ\Send\bin\Debug\netcoreapp3.1\' with level Info
+2022-06-06 19:20:34.315 INFO  No valid license could be found. Falling back to trial license with start date '2022-06-01'.
+2022-06-06 19:44:39.373 INFO  Logging to 'C:\Users\rvadikari\source\repos\RabbitMQ\Send\bin\Debug\netcoreapp3.1\' with level Info
+2022-06-06 19:44:39.697 INFO  No valid license could be found. Falling back to trial license with start date '2022-06-01'.
+2022-06-06 19:45:44.584 INFO  Logging to 'C:\Users\rvadikari\source\repos\RabbitMQ\Send\bin\Debug\netcoreapp3.1\' with level Info
+2022-06-06 19:45:44.889 INFO  No valid license could be found. Falling back to trial license with start date '2022-06-01'.
+2022-06-06 19:53:13.360 INFO  Logging to 'C:\Users\rvadikari\source\repos\RabbitMQ\Send\bin\Debug\netcoreapp3.1\' with level Info
+2022-06-06 19:53:13.741 INFO  No valid license could be found. Falling back to trial license with start date '2022-06-01'.
+2022-06-06 19:55:56.593 INFO  Logging to 'C:\Users\rvadikari\source\repos\RabbitMQ\Send\bin\Debug\netcoreapp3.1\' with level Info
+2022-06-06 19:55:56.939 INFO  No valid license could be found. Falling back to trial license with start date '2022-06-01'.
+2022-06-06 20:04:41.594 INFO  Logging to 'C:\Users\rvadikari\source\repos\RabbitMQ\Send\bin\Debug\netcoreapp3.1\' with level Info
+2022-06-06 20:04:41.874 INFO  No valid license could be found. Falling back to trial license with start date '2022-06-01'.
+2022-06-06 20:05:02.821 INFO  Logging to 'C:\Users\rvadikari\source\repos\RabbitMQ\Send\bin\Debug\netcoreapp3.1\' with level Info
+2022-06-06 20:05:03.150 INFO  No valid license could be found. Falling back to trial license with start date '2022-06-01'.
+2022-06-06 21:08:31.581 INFO  Logging to 'C:\Users\rvadikari\source\repos\RabbitMQ\Send\bin\Debug\netcoreapp3.1\' with level Info
+2022-06-06 21:08:31.848 INFO  No valid license could be found. Falling back to trial license with start date '2022-06-01'.
+2022-06-06 21:12:52.728 INFO  Logging to 'C:\Users\rvadikari\source\repos\RabbitMQ\Send\bin\Debug\netcoreapp3.1\' with level Info
+2022-06-06 21:12:53.128 INFO  No valid license could be found. Falling back to trial license with start date '2022-06-01'.
+2022-06-06 21:42:49.111 INFO  Logging to 'C:\Users\rvadikari\source\repos\RabbitMQ\Send\bin\Debug\netcoreapp3.1\' with level Info
+2022-06-06 21:42:49.492 INFO  No valid license could be found. Falling back to trial license with start date '2022-06-01'.
+2022-06-06 21:46:27.120 INFO  Logging to 'C:\Users\rvadikari\source\repos\RabbitMQ\Send\bin\Debug\netcoreapp3.1\' with level Info
+2022-06-06 21:46:27.407 INFO  No valid license could be found. Falling back to trial license with start date '2022-06-01'.

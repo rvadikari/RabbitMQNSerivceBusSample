@@ -1,0 +1,20 @@
+﻿2022-06-08 09:52:02.685 INFO  Logging to 'C:\Users\rvadikari\source\repos\RabbitMQ\Rabbit.ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2022-06-08 09:52:02.994 INFO  No valid license could be found. Falling back to trial license with start date '2022-06-01'.
+2022-06-08 10:20:40.770 INFO  Logging to 'C:\Users\rvadikari\source\repos\RabbitMQ\Rabbit.ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2022-06-08 10:20:41.124 INFO  No valid license could be found. Falling back to trial license with start date '2022-06-01'.
+2022-06-08 10:24:12.404 INFO  Logging to 'C:\Users\rvadikari\source\repos\RabbitMQ\Rabbit.ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2022-06-08 10:24:12.835 INFO  No valid license could be found. Falling back to trial license with start date '2022-06-01'.
+2022-06-08 11:20:39.827 INFO  Logging to 'C:\Users\rvadikari\source\repos\RabbitMQ\Rabbit.ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2022-06-08 11:20:40.169 INFO  No valid license could be found. Falling back to trial license with start date '2022-06-01'.
+2022-06-08 11:22:52.901 INFO  Logging to 'C:\Users\rvadikari\source\repos\RabbitMQ\Rabbit.ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2022-06-08 11:22:53.221 INFO  No valid license could be found. Falling back to trial license with start date '2022-06-01'.
+2022-06-08 11:26:54.805 INFO  Logging to 'C:\Users\rvadikari\source\repos\RabbitMQ\Rabbit.ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2022-06-08 11:26:55.070 INFO  No valid license could be found. Falling back to trial license with start date '2022-06-01'.
+2022-06-08 11:28:06.076 INFO  Logging to 'C:\Users\rvadikari\source\repos\RabbitMQ\Rabbit.ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2022-06-08 11:28:06.403 INFO  No valid license could be found. Falling back to trial license with start date '2022-06-01'.
+2022-06-08 17:42:29.165 INFO  Logging to 'C:\Users\rvadikari\source\repos\RabbitMQ\Rabbit.ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2022-06-08 17:42:31.231 INFO  No valid license could be found. Falling back to trial license with start date '2022-06-01'.
+2022-06-08 17:43:26.790 INFO  Logging to 'C:\Users\rvadikari\source\repos\RabbitMQ\Rabbit.ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2022-06-08 17:43:27.300 INFO  No valid license could be found. Falling back to trial license with start date '2022-06-01'.
+2022-06-08 17:44:53.306 INFO  Logging to 'C:\Users\rvadikari\source\repos\RabbitMQ\Rabbit.ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2022-06-08 17:44:53.865 INFO  No valid license could be found. Falling back to trial license with start date '2022-06-01'.

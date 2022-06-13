@@ -1,0 +1,2 @@
+﻿2022-06-06 22:07:23.882 INFO  Logging to 'C:\Users\rvadikari\source\repos\RabbitMQ\Rabbit.ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2022-06-06 22:07:24.287 INFO  No valid license could be found. Falling back to trial license with start date '2022-06-01'.

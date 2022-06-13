@@ -1,0 +1,27 @@
+﻿2022-06-08 11:20:39.397 INFO  Logging to 'C:\Users\rvadikari\source\repos\RabbitMQ\Rabbit.Shipping\bin\Debug\netcoreapp3.1\' with level Info
+2022-06-08 11:20:39.744 INFO  No valid license could be found. Falling back to trial license with start date '2022-06-01'.
+2022-06-08 11:21:26.029 INFO  Order Placed with orderID=25e8cba4. Should we ship
+2022-06-08 11:22:52.744 INFO  Logging to 'C:\Users\rvadikari\source\repos\RabbitMQ\Rabbit.Shipping\bin\Debug\netcoreapp3.1\' with level Info
+2022-06-08 11:22:53.071 INFO  No valid license could be found. Falling back to trial license with start date '2022-06-01'.
+2022-06-08 11:23:27.501 INFO  Order Placed with orderID=32bff103. Should we ship
+2022-06-08 11:23:27.562 INFO  Order Placed with orderID=32bff103. Should we ship
+2022-06-08 11:26:54.346 INFO  Logging to 'C:\Users\rvadikari\source\repos\RabbitMQ\Rabbit.Shipping\bin\Debug\netcoreapp3.1\' with level Info
+2022-06-08 11:26:54.696 INFO  No valid license could be found. Falling back to trial license with start date '2022-06-01'.
+2022-06-08 11:27:00.542 INFO  Order Placed with orderID=e40d99ad. Should we ship
+2022-06-08 11:27:00.599 INFO  Order Billed with orderID=e40d99ad. Should we ship
+2022-06-08 11:28:06.041 INFO  Logging to 'C:\Users\rvadikari\source\repos\RabbitMQ\Rabbit.Shipping\bin\Debug\netcoreapp3.1\' with level Info
+2022-06-08 11:28:06.374 INFO  No valid license could be found. Falling back to trial license with start date '2022-06-01'.
+2022-06-08 11:28:08.803 INFO  Order Placed with orderID=77088d3b. Should we ship
+2022-06-08 11:28:08.862 INFO  Order Billed with orderID=77088d3b. Should we ship True and False
+2022-06-08 17:42:33.119 INFO  Logging to 'C:\Users\rvadikari\source\repos\RabbitMQ\Rabbit.Shipping\bin\Debug\netcoreapp3.1\' with level Info
+2022-06-08 17:42:35.011 INFO  No valid license could be found. Falling back to trial license with start date '2022-06-01'.
+2022-06-08 17:42:44.786 INFO  Order Placed with orderID=6ac9bf6d. Should we ship
+2022-06-08 17:42:44.926 INFO  Order Billed with orderID=6ac9bf6d. Should we ship True and False
+2022-06-08 17:43:26.462 INFO  Logging to 'C:\Users\rvadikari\source\repos\RabbitMQ\Rabbit.Shipping\bin\Debug\netcoreapp3.1\' with level Info
+2022-06-08 17:43:27.035 INFO  No valid license could be found. Falling back to trial license with start date '2022-06-01'.
+2022-06-08 17:43:34.573 INFO  Order Placed with orderID=0b2ba333. Should we ship?
+2022-06-08 17:43:34.638 INFO  Order Billed with orderID=0b2ba333. Should we ship?
+2022-06-08 17:44:53.235 INFO  Logging to 'C:\Users\rvadikari\source\repos\RabbitMQ\Rabbit.Shipping\bin\Debug\netcoreapp3.1\' with level Info
+2022-06-08 17:44:53.843 INFO  No valid license could be found. Falling back to trial license with start date '2022-06-01'.
+2022-06-08 17:45:02.730 INFO  Order Placed with orderID=58c6eb17. Should we ship?
+2022-06-08 17:45:02.790 INFO  Order Billed with orderID=58c6eb17. Should we ship?

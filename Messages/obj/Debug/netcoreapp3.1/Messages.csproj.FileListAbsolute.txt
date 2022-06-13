@@ -1,0 +1,10 @@
+C:\Users\rvadikari\source\repos\RabbitMQ\Messages\bin\Debug\netcoreapp3.1\Messages.deps.json
+C:\Users\rvadikari\source\repos\RabbitMQ\Messages\bin\Debug\netcoreapp3.1\Messages.dll
+C:\Users\rvadikari\source\repos\RabbitMQ\Messages\bin\Debug\netcoreapp3.1\Messages.pdb
+C:\Users\rvadikari\source\repos\RabbitMQ\Messages\obj\Debug\netcoreapp3.1\Messages.csproj.AssemblyReference.cache
+C:\Users\rvadikari\source\repos\RabbitMQ\Messages\obj\Debug\netcoreapp3.1\Messages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rvadikari\source\repos\RabbitMQ\Messages\obj\Debug\netcoreapp3.1\Messages.AssemblyInfoInputs.cache
+C:\Users\rvadikari\source\repos\RabbitMQ\Messages\obj\Debug\netcoreapp3.1\Messages.AssemblyInfo.cs
+C:\Users\rvadikari\source\repos\RabbitMQ\Messages\obj\Debug\netcoreapp3.1\Messages.csproj.CoreCompileInputs.cache
+C:\Users\rvadikari\source\repos\RabbitMQ\Messages\obj\Debug\netcoreapp3.1\Messages.dll
+C:\Users\rvadikari\source\repos\RabbitMQ\Messages\obj\Debug\netcoreapp3.1\Messages.pdb

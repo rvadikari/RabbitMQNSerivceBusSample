@@ -1,0 +1,16 @@
+﻿2022-06-09 09:10:51.246 INFO  Logging to 'C:\Users\rvadikari\source\repos\RabbitMQ\Rabbit.ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2022-06-09 09:10:51.817 INFO  No valid license could be found. Falling back to trial license with start date '2022-06-01'.
+2022-06-09 09:13:19.028 INFO  Logging to 'C:\Users\rvadikari\source\repos\RabbitMQ\Rabbit.ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2022-06-09 09:13:19.375 INFO  No valid license could be found. Falling back to trial license with start date '2022-06-01'.
+2022-06-09 09:58:58.677 INFO  Logging to 'C:\Users\rvadikari\source\repos\RabbitMQ\Rabbit.ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2022-06-09 09:58:59.056 INFO  No valid license could be found. Falling back to trial license with start date '2022-06-01'.
+2022-06-09 10:00:32.580 INFO  Logging to 'C:\Users\rvadikari\source\repos\RabbitMQ\Rabbit.ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2022-06-09 10:00:33.016 INFO  No valid license could be found. Falling back to trial license with start date '2022-06-01'.
+2022-06-09 10:01:18.619 INFO  Logging to 'C:\Users\rvadikari\source\repos\RabbitMQ\Rabbit.ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2022-06-09 10:01:19.018 INFO  No valid license could be found. Falling back to trial license with start date '2022-06-01'.
+2022-06-09 10:04:23.740 INFO  Logging to 'C:\Users\rvadikari\source\repos\RabbitMQ\Rabbit.ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2022-06-09 10:04:24.392 INFO  No valid license could be found. Falling back to trial license with start date '2022-06-01'.
+2022-06-09 10:06:09.523 INFO  Logging to 'C:\Users\rvadikari\source\repos\RabbitMQ\Rabbit.ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2022-06-09 10:06:09.927 INFO  No valid license could be found. Falling back to trial license with start date '2022-06-01'.
+2022-06-09 11:13:23.165 INFO  Logging to 'C:\Users\rvadikari\source\repos\RabbitMQ\Rabbit.ClientUI\bin\Debug\netcoreapp3.1\' with level Info
+2022-06-09 11:13:23.554 INFO  No valid license could be found. Falling back to trial license with start date '2022-06-01'.

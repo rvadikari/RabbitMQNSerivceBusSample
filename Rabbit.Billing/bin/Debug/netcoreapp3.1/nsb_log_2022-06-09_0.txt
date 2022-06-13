@@ -1,0 +1,25 @@
+﻿2022-06-09 09:10:50.835 INFO  Logging to 'C:\Users\rvadikari\source\repos\RabbitMQ\Rabbit.Billing\bin\Debug\netcoreapp3.1\' with level Info
+2022-06-09 09:10:51.420 INFO  No valid license could be found. Falling back to trial license with start date '2022-06-01'.
+2022-06-09 09:13:18.888 INFO  Logging to 'C:\Users\rvadikari\source\repos\RabbitMQ\Rabbit.Billing\bin\Debug\netcoreapp3.1\' with level Info
+2022-06-09 09:13:19.287 INFO  No valid license could be found. Falling back to trial license with start date '2022-06-01'.
+2022-06-09 09:13:20.679 INFO  Order Placed with OrderID = 2d965a10
+2022-06-09 09:13:33.505 INFO  Order Placed with OrderID = dfe09c78
+2022-06-09 09:13:42.234 INFO  Order Placed with OrderID = 7c9705c8
+2022-06-09 09:58:58.711 INFO  Logging to 'C:\Users\rvadikari\source\repos\RabbitMQ\Rabbit.Billing\bin\Debug\netcoreapp3.1\' with level Info
+2022-06-09 09:58:59.131 INFO  No valid license could be found. Falling back to trial license with start date '2022-06-01'.
+2022-06-09 09:59:03.597 INFO  Order Placed with OrderID = 342b5aa4
+2022-06-09 10:00:32.646 INFO  Logging to 'C:\Users\rvadikari\source\repos\RabbitMQ\Rabbit.Billing\bin\Debug\netcoreapp3.1\' with level Info
+2022-06-09 10:00:33.074 INFO  No valid license could be found. Falling back to trial license with start date '2022-06-01'.
+2022-06-09 10:01:18.683 INFO  Logging to 'C:\Users\rvadikari\source\repos\RabbitMQ\Rabbit.Billing\bin\Debug\netcoreapp3.1\' with level Info
+2022-06-09 10:01:19.079 INFO  No valid license could be found. Falling back to trial license with start date '2022-06-01'.
+2022-06-09 10:01:41.137 INFO  Order Placed with OrderID = 9759e356
+2022-06-09 10:04:25.489 INFO  Logging to 'C:\Users\rvadikari\source\repos\RabbitMQ\Rabbit.Billing\bin\Debug\netcoreapp3.1\' with level Info
+2022-06-09 10:04:26.021 INFO  No valid license could be found. Falling back to trial license with start date '2022-06-01'.
+2022-06-09 10:04:53.482 INFO  Order Placed with OrderID = 2789a311
+2022-06-09 10:05:03.022 INFO  Order Placed with OrderID = 07ab3a4e
+2022-06-09 10:06:09.531 INFO  Logging to 'C:\Users\rvadikari\source\repos\RabbitMQ\Rabbit.Billing\bin\Debug\netcoreapp3.1\' with level Info
+2022-06-09 10:06:09.957 INFO  No valid license could be found. Falling back to trial license with start date '2022-06-01'.
+2022-06-09 10:06:13.748 INFO  Order Placed with OrderID = 61f55867
+2022-06-09 11:13:23.167 INFO  Logging to 'C:\Users\rvadikari\source\repos\RabbitMQ\Rabbit.Billing\bin\Debug\netcoreapp3.1\' with level Info
+2022-06-09 11:13:23.569 INFO  No valid license could be found. Falling back to trial license with start date '2022-06-01'.
+2022-06-09 11:14:47.682 INFO  Order Placed with OrderID = 8110dee4
